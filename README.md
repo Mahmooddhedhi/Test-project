@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/mahmooddhedhi18) - mahmooddhedhi18@gmail.com
 
-Project Link: [https://github.com/yourusername/Test-project](https://github.com/yourusername/Test-project)                          
+Project Link: [https://github.com/Mahmooddhedhi/Test-project](https://github.com/Mahmooddhedhi/Test-project)                          
 
