@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Test-project.git
+   git clone https://github.com/Mahmooddhedhi/Test-project.git
    ```
 2. Navigate to the project directory:
    ```
