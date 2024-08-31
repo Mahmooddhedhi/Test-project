@@ -1,2 +1,2 @@
 # Test-project
-For learning Purpose
+This is a test project for learning git and github.
